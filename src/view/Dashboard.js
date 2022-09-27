@@ -234,31 +234,7 @@ function Dashboard() {
                                             </Card>
                                         </Grid>
 
-                                        <Grid sm={4} xs={4} item={true} className={classes.stat}>
-                                            <Card>
-                                                <CardHeader
-                                                    title="Revenus"
-                                                    avatar={
-                                                        <MonetizationOn />
-                                                    }
-                                                    subheader="Le total des Revenus"
-                                                />
-                                                <div className="d-flex">
-                                                    <CardActions>
-                                                        <div
-                                                            style={{
-                                                                border: '1px solid silver', width: '200px', marginLeft: '10px', borderRadius: '5px',
-                                                                margin: '0 auto', textAlign: 'center', height: '', fontSize: '25px'
-                                                            }}
-                                                        >
-
-                                                            9
-                                                        </div>
-                                                    </CardActions>
-                                                </div>
-                                            </Card>
-                                        </Grid>
-
+                                        
                                     </div>
                                 </Typography>
                             </CardContent>
