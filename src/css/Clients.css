@@ -1,0 +1,55 @@
+.clients .btnChange{
+    border: 2px solid silver !important;
+    width: 40px !important;
+    color: rgb(59, 55, 55) !important;
+    margin-right: 5px;
+}
+
+.clients .btn-add-user{
+    color: white;
+    border: 2px solid silver !important;
+    background-color: #c72f3c;
+}
+
+.clients .btn-add-user:hover{
+    color: #fff !important;
+}
+
+.clients .faUser{
+    border-radius: 100%;
+    background-color:#efefef !important;
+    width: 20px;
+    height: 20px !important;
+    color: rgb(54, 51, 51) !important;
+}
+
+.clients table thead tr th {
+    font-size: 14px;
+    color: #555 !important;
+}
+
+.clients .buttonAdd{
+    border-radius: 3px;
+    padding: 5px;
+    width: 40px;
+}
+
+.clients .input-group-text{
+    height:40px;
+    line-height:25px;
+}
+
+table tbody tr td{
+    font-size:13px;
+    cursor:pointer
+}
+
+.btn {
+    box-shadow: none !important;
+}
+
+.buttonAdd{
+    color: white !important;
+}
+
+

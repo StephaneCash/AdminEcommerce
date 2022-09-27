@@ -1,0 +1,50 @@
+.modal {
+    text-align: center;
+    padding: 0 !important;
+}
+
+.modal:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 80px !important;
+    width: 45% !important;
+}
+
+#add-user .btn-voir-tout{
+    background-color:#ed145b;
+    color: #fff;
+}
+
+#add-user .btn{
+    margin-top: 20px;
+}
+
+#add-user .btn:hover{
+    background-color: #fff !important;
+    color: #ed145b !important;
+    border: 1px solid #ed145b;
+}
+
+.MuiInputBase-input:hover{
+    box-shadow: 2px 1px 2px silver !important;
+}
+
+#add-poste .btn{
+    background-color: #ed145b !important;
+    color : #fff !important;
+    border: 1px solid #ed145b !important;
+}
+
+#add-poste .btn:hover{
+    background-color: #fff !important;
+    color : #ed145b !important;
+    border: 1px solid #ed145b !important;
+}

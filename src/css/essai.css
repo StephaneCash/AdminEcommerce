@@ -1,0 +1,334 @@
+.gallery .pics {
+    -webkit-transition: all 350ms ease;
+    transition: all 350ms ease;
+    cursor: pointer;
+}
+
+.gallery .MuiCardHeader-content {
+    height: 20px;
+    font-size: 12px !important;
+}
+
+.gallery .MuiTypography-body1 {
+    font-size: 12px !important;
+    font-family: Segoe UI;
+}
+
+.gallery .MuiCard-root {
+    height: 37vh !important;
+    margin-top: 10px;
+}
+
+.gallery .pics:hover {
+    filter: opacity(.5);
+}
+
+@media (max-width: 2000px) {
+    .pictures {
+        display: grid !important;
+        grid-template-columns: 320px 320px 320px 320px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1640px) {
+    .pictures {
+        display: grid !important;
+        grid-template-columns: 400px 400px 400px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1540px) {
+    .pictures {
+        grid-template-columns: 290px 290px 290px 290px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+}
+
+@media (max-width: 1510px) {
+    .pictures {
+        grid-template-columns: 380px 380px 380px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+}
+
+@media (max-width: 1470px) {
+    .pictures {
+        grid-template-columns: 370px 370px 370px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .pictures {
+        grid-template-columns: 350px 350px 350px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1390px) {
+    .pictures {
+        grid-template-columns: 330px 330px 330px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1301px) {
+    .pictures {
+        grid-template-columns: 310px 310px 310px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1240px) {
+    .pictures {
+        grid-template-columns: 290px 290px 290px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1164px) {
+    .pictures {
+        grid-template-columns: 270px 270px 270px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1094px) {
+    .pictures {
+        grid-template-columns: 250px 250px 250px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 1028px) {
+    .pictures {
+        grid-template-columns: 230px 230px 230px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+    
+
+}
+
+@media (max-width: 948px) {
+    .pictures {
+        grid-template-columns: 210px 210px 210px !important;
+        margin: auto;
+    }
+
+    #conatiner{
+        width: 10%;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+}
+
+@media (max-width: 876px) {
+    .pictures {
+        grid-template-columns: 300px 300px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 840px) {
+    .pictures {
+        grid-template-columns: 280px 280px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 821px) {
+    .pictures {
+        grid-template-columns: 270px 270px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 752px) {
+    .pictures {
+        grid-template-columns: 250px 250px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 724px) {
+    .pictures {
+        grid-template-columns: 230px 230px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 668px) {
+    .pictures {
+        grid-template-columns: 210px 210px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 634px) {
+    .pictures {
+        grid-template-columns: 400px !important;
+        margin: auto;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+}
+
+@media (max-width: 570px) {
+    .pictures {
+        align-items: center;
+        grid-template-columns: 380px !important;
+        justify-content: center;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+}
+
+@media (max-width: 550px) {
+    .pictures {
+        align-items: center;
+        grid-template-columns: 380px !important;
+        justify-content: center;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+    .active{
+        border: none !important;
+        color: #0c50a2 !important;
+    }
+
+}
+
+@media (max-width: 532px) {
+    .pictures {
+        align-items: center;
+        grid-template-columns: auto !important;
+        justify-content: center;
+    }
+
+    .gallery .MuiCard-root {
+        height: auto;
+        margin-top: 12px;
+    }
+
+    .active{
+        border: none !important;
+        color: #0c50a2 !important;
+    }
+}
+
+.gallery {
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}

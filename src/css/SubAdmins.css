@@ -1,0 +1,91 @@
+.input-search {
+    box-shadow: none !important;
+    border: 1px solid silver !important;
+    box-shadow: none !important;
+}
+
+.subAdmins .sudAdminsList {
+    height: 40vh;
+    overflow: auto;
+}
+
+.subAdmins .btnChange {
+    border: 2px solid silver !important;
+    width: 40px !important;
+    color: rgb(59, 55, 55) !important;
+    margin-right: 5px;
+}
+
+.subAdmins .btn-add-user {
+    color: white;
+    border: 2px solid silver !important;
+    background-color: #ed145b;
+}
+
+.subAdmins .btn-add-user:hover {
+    color: #fff !important;
+}
+
+.subAdmins .faUser {
+    border-radius: 100%;
+    background-color: #efefef !important;
+    width: 20px;
+    height: 20px !important;
+    color: rgb(54, 51, 51) !important;
+}
+
+.subAdmins .detailSudAdmin {
+    width: 70% !important;
+}
+
+.subAdmins .detailSudAdmin {
+    border: 2px solid #efefef;
+    margin: 0 auto;
+}
+
+.subAdmins table thead tr th {
+    font-size: 14px;
+    color: #555 !important;
+}
+
+.subAdmins .buttonAdd {
+    border-radius: 3px;
+    padding: 5px;
+    width: 40px;
+}
+
+.subAdmins .input-group-text {
+    height: 40px;
+    line-height: 25px;
+}
+
+table tbody tr td {
+    font-size: 13px;
+}
+
+.btn {
+    box-shadow: none !important;
+}
+
+.buttonAdd {
+    color: white !important;
+}
+
+.pageNumbers {
+    list-style: none;
+    display: flex;
+}
+
+.pageNumbers li {
+    padding: 10px;
+    border: 1px solid silver;
+    cursor: pointer;
+}
+
+.checkbox-user {
+    margin-top: -8px !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+    color: #ff3547 !important;
+}

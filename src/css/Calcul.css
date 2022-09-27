@@ -1,0 +1,22 @@
+.card{
+    width: 70%;
+    margin : 0 auto;
+}
+
+.card-body{
+    padding: 20px !important;
+}
+
+input:focus, button:focus{
+    box-shadow: none !important;
+    border: 1px solid silver;
+}
+
+.menu{
+    width: 82.3% !important;
+}
+
+th, td{
+    font-family: Segoe UI;
+    font-size: 14px;
+}

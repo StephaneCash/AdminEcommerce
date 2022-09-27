@@ -1,0 +1,85 @@
+.input-search{
+    box-shadow: none !important;
+    border: 1px solid silver !important;
+    box-shadow:none !important;
+}
+
+.users .btnChange{
+    border: 2px solid silver !important;
+    width: 40px !important;
+    color: rgb(59, 55, 55) !important;
+    margin-right: 5px;
+}
+
+.users .btn-add-user{
+    color: white;
+    border: 2px solid silver !important;
+    background-color: #ed145b;
+}
+
+.users .btn-add-user:hover{
+    color: #fff !important;
+}
+
+.users .faUser{
+    border-radius: 100%;
+    background-color:#efefef !important;
+    width: 20px;
+    height: 20px !important;
+    color: rgb(54, 51, 51) !important;
+}
+
+.users table thead tr th {
+    font-size: 14px;
+    color: #000 !important;
+}
+
+.users .buttonAdd{
+    border-radius: 3px;
+    padding: 5px;
+    width: 40px;
+}
+
+.users .input-group-text{
+    height:40px;
+    line-height:25px;
+}
+
+.dataUsers{
+    height: 62vh !important;
+    overflow: auto !important;
+}
+
+table tbody tr td{
+    font-size:10px;
+    cursor:pointer;
+    font-family: Open sans !important;
+}
+
+.btn {
+    box-shadow: none !important;
+}
+
+.buttonAdd{
+    color: white !important;
+}
+
+.pageNumbers {
+    list-style: none;
+    display:flex;
+}
+
+.pageNumbers li{
+    padding: 10px;
+    border:1px solid silver;
+    cursor: pointer;
+}
+
+.checkbox-user{
+    margin-top: -8px !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked{
+    color: #ff3547 !important;
+}
+

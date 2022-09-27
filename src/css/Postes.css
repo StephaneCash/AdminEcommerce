@@ -1,0 +1,5 @@
+.postes .addPoste:hover{
+    background-color: #fff !important;
+    color: #ed145b !important;
+    border: 1px solid #ed145b !important;
+}

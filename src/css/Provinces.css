@@ -1,0 +1,16 @@
+table thead tr th {
+    font-size: 14px;
+    color: #555 !important;
+}
+.btnChange{
+    border: 2px solid silver !important;
+    width: 40px !important;
+    color: rgb(59, 55, 55) !important;
+    margin-right: 5px;
+}
+
+.provinces .btnAdd:hover{
+    background-color:#fff !important; 
+    border: 1px solid #c72f3c !important;
+    color : #c72f3c !important;
+}

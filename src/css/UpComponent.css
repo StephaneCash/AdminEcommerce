@@ -1,0 +1,12 @@
+.upComponent{
+    width: 100%;
+    height:50px;
+    background-color: #282c34;
+    position: fixed;
+}
+
+.mtT{
+    border: 1px solid silver;
+    padding: 5px;
+    box-shadow: 2px 2px 18px silver;
+}

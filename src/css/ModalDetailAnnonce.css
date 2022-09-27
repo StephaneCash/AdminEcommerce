@@ -1,0 +1,38 @@
+.modalAnnonce .modal {
+    text-align: center;
+    padding: 0 !important;
+}
+
+.modalAnnonce .modal:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+
+.modalAnnonce .modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 70px !important;
+}
+
+.carousel .thumbs {
+    display: none;
+}
+.carousel{
+    margin-top: -30px !important;
+}
+
+.modalAnnonce.modal-header{
+    height: 8px !important;
+}
+
+.carousel.carousel-slider .control-arrow:hover{
+    color: red !important;
+}
+
+.carousel.carousel-slider{
+    height: 300px !important;
+}
+

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+
+a {
+    text-decoration: none !important;
+    color: #333 !important; 
+    font-size: 14px;
+    font-weight: 500 !important;
+}
+
+.active {
+    border-left: 3px solid #0c50a2;
+    background-color: #efefef !important;
+    padding: 5px !important;
+    width: 100% !important;
+}
+.MuiTypography-body1{
+    font-size: 14px !important;
+    font-family: Open sans !important;
+}
